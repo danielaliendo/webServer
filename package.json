@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/danielaliendo/webServer/issues"
   },
-  "homepage": "https://github.com/danielaliendo/webServer#readme"
+  "homepage": "https://github.com/danielaliendo/webServer#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
